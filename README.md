@@ -247,6 +247,17 @@ The book costs $\$50$
 ```
 
 
+![l27](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/06f2f65e-7073-4ee9-b631-03e62f409205)
+When we type the code below the above output shows <br>
+
+```
+
+$$3\left(\frac{3}{x^2-1}\right)$$
+
+```
+
+
+
 
 
 
