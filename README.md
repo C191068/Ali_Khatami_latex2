@@ -160,6 +160,14 @@ About $\displaystyle\frac{4}{5}$ of the work is done
 
 ```
 
+![l18](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/67ac99d8-f99e-4709-9d9e-b01568db474d)
+
+we use the above by using the code below <br>
+
+```
+\usepackage{amsmath, amssymb, amsfonts}
+```
+
 
 
 
