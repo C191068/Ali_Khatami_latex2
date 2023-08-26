@@ -168,8 +168,13 @@ we use the above by using the code below <br>
 \usepackage{amsmath, amssymb, amsfonts}
 ```
 
+![l19](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/17cd9a62-9b5d-4754-8e87-83e23534f803)
 
+Then use the code below to display 2/3 in proper size : <br>
 
+```
+$$\dfrac{2}{3}$$
+```
 
 
 
