@@ -268,7 +268,7 @@ $$3\left\{\frac{3}{x^2-1}\right\}$$
 ```
 
 ![l29](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/26a49155-ff5d-4207-9d04-f09711688424)
-When we type the two codes below the above output shows respectively  <br>
+When we type the code below the above output shows <br>
 
 ```
 $$3\left\langle\frac{3}{x^2-1}\right\rangle$$
@@ -277,7 +277,7 @@ $$3\left\langle\frac{3}{x^2-1}\right\rangle$$
 
 ![l30](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/4e52ad70-e649-4bf3-aa01-749eacb6bd3b)
 
-When we type the two codes below the above output shows respectively  <br>
+When we type the code below the above output shows <br>
 
 
 ```
@@ -288,7 +288,7 @@ $$3\left|\frac{3}{x^2-1}\right|$$
 
 ![l31](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/803baa24-60ba-4392-88a6-9bfba980a9a0)
 
-When we type the two codes below the above output shows respectively  <br>
+When we type the code below the above output shows <br>
 
 ```
 $$\left.\frac{dy}{dx}\right|_{x=1}$$
@@ -298,7 +298,7 @@ $$\left.\frac{dy}{dx}\right|_{x=1}$$
 
 ![l32](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/6b76797c-ae7a-4a6d-a1fd-76f6cb5bb225)
 
-When we type the two codes below the above output shows respectively  <br>
+When we type the code below the above output shows <br>
 
 ```
 
@@ -307,6 +307,15 @@ $$\frac{1}{1+\left(\frac{1}{1+x}\right)}$$
 ```
 
 
+![l33](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/a884f403-a2c7-4610-93ec-9ae2838668da)
+
+When we type the code below the above output shows <br>
+
+```
+
+$$\left(\frac{1}{1+\left(\frac{1}{1+x}\right)}\right)$$
+
+```
 
 
 
