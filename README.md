@@ -96,6 +96,20 @@ When we type the code below the page number is gone  <br>
 
 ```
 
+![l12](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/cb31a00b-7c76-40c9-b2dc-4b9951381e6e)
+
+When we type the code below the above output shows <br>
+
+```
+
+$$\sqrt{x^2+y^2}$$
+
+```
+
+
+
+
+
 
 
 
