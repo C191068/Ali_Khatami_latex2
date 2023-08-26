@@ -199,6 +199,16 @@ $$\frac{1}{1+\frac{1}{x}}$$
 ### Brackets, Tables and Arrays 
 
 
+![l22](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/7a08a103-44f9-4692-bb16-4e724408447e)
+
+When we type the code below the above output shows <br>
+
+```
+
+The property states that $a(b+c)=ab+ac$, for all $a, b, c \in \mathbb{R}$
+
+```
+
 
 
 
