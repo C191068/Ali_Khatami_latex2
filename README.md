@@ -60,6 +60,28 @@ $$y= \log_5 x$$
 ```
 
 
+![l8](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/c4e5527e-e3e6-4f88-931d-5462e0c97e34)
+
+
+When we type the code below the above output shows <br>
+
+```
+
+$$\sqrt{2}$$
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
