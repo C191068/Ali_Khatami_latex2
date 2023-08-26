@@ -275,6 +275,16 @@ $$3\left\langle\frac{3}{x^2-1}\right\rangle$$
 
 ```
 
+![l30](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/4e52ad70-e649-4bf3-aa01-749eacb6bd3b)
+
+When we type the two codes below the above output shows respectively  <br>
+
+
+```
+
+$$3\left|\frac{3}{x^2-1}\right|$$
+
+```
 
 
 
