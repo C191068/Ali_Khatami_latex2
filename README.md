@@ -229,6 +229,17 @@ If we use the code below we can see non e of our lines are indented <br>
 ```
 
 
+![l25](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/252f992c-8142-42ad-985a-fd1d8c96d038)
+When we type the code below the above output shows <br>
+
+```
+The set $B$ is defined to be $\{1,2,3\}$
+
+```
+
+
+
+
 
 
 
