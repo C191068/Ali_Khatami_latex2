@@ -136,8 +136,15 @@ About $\frac{4}{5}$ of the work is done
 ```
 
 
+![l16](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/865a8153-dded-4aa0-ae90-19eba0609201)
 
+In order to make 4/5 larger we type the below code <br>
 
+```
+
+About $\displaystyle\frac{4}{5}$ of the work is done
+
+```
 
 
 
