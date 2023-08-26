@@ -40,6 +40,15 @@ $$y= \arcsin x$$
 ```
 
 
+![l6](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/232ce9bb-3d12-442a-8669-40ddabb18883)
+
+the code below shows the above output <br>
+
+```
+$$y= \log x$$
+
+```
+
 
 
 
