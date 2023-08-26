@@ -127,7 +127,13 @@ $$\frac{4}{5}$$
 
 ```
 
+![l15](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/b638ff26-8e65-40c6-a0b0-5981348898c9)
 
+When we type the code below the above output shows <br>
+
+```
+About $\frac{4}{5}$ of the work is done
+```
 
 
 
