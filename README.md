@@ -49,6 +49,16 @@ $$y= \log x$$
 
 ```
 
+![l7](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/737e005a-7d78-49be-b7c7-3bbe49a9caa0)
+
+We use the code below to show the above output <br>
+
+```
+
+$$y= \log_5 x$$
+
+```
+
 
 
 
