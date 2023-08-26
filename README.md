@@ -86,7 +86,15 @@ $$\sqrt[3]{2}$$
 
 here in the above we can see the page number 1 now if we want to remove it <br>
 
+![l11](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/582202cc-4b58-4873-bbb7-331929f7109b)
 
+When we type the code below the page number is gone  <br>
+
+```
+
+\pagestyle{empty}
+
+```
 
 
 
