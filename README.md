@@ -219,9 +219,14 @@ The equivalence class of $a$ is $[a]$.\\
 
 ```
 
+![l24](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/da11cdc7-a0d9-4937-827e-8ee8322a310b)
+If we use the code below we can see non e of our lines are indented <br>
 
+```
 
+\parindent 0px
 
+```
 
 
 
