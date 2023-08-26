@@ -117,7 +117,15 @@ $$\sqrt{ 1+\sqrt{x} }$$
 ```
 
 
+![l14](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/db5c8175-85ff-44f5-959f-8a1692825d59)
 
+When we type the code below the above output shows <br>
+
+```
+
+$$\frac{4}{5}$$
+
+```
 
 
 
