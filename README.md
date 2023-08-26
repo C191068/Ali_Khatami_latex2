@@ -238,6 +238,17 @@ The set $B$ is defined to be $\{1,2,3\}$
 ```
 
 
+![l26](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/297237e2-0056-4ba2-ae57-7ae63f4053d4)
+When we type the code below the above output shows <br>
+
+```
+The book costs $\$50$
+
+```
+
+
+
+
 
 
 
