@@ -177,6 +177,26 @@ $$\dfrac{2}{3}$$
 ```
 
 
+![l20](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/ac57efb9-fc60-41a5-b5b9-40cde3a2f7c1)
+
+we use the above by using the code below <br>
+
+```
+$$\frac{\sqrt{x+1}}{\sqrt{x+2}}$$
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
