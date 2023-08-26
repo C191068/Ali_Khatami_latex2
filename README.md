@@ -107,7 +107,14 @@ $$\sqrt{x^2+y^2}$$
 ```
 
 
+![l13](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/48adb3df-a6b9-47f8-b0d5-402a95cdbbff)
 
+When we type the code below the above output shows <br>
+
+```
+$$\sqrt{ 1+\sqrt{x} }$$
+
+```
 
 
 
