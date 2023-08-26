@@ -196,6 +196,9 @@ $$\frac{1}{1+\frac{1}{x}}$$
 
 ```
 
+### Brackets, Tables and Arrays 
+
+
 
 
 
