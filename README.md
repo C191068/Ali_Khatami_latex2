@@ -146,7 +146,16 @@ About $\displaystyle\frac{4}{5}$ of the work is done
 
 ```
 
+![l17](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/9e6253d4-d5a7-46ad-96f6-b1b7adef316f)
 
+for spacing we use the below code <br>
+
+```
+
+About $\frac{4}{5}$ of the work is done.\\[6pt]
+About $\displaystyle\frac{4}{5}$ of the work is done
+
+```
 
 
 
