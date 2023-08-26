@@ -256,8 +256,16 @@ $$3\left(\frac{3}{x^2-1}\right)$$
 
 ```
 
+![l28](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/8547f0ab-0f31-43d5-a71d-e896c6bade57)
 
+When we type the two codes below the above output shows respectively  <br>
 
+```
+
+$$3\left[\frac{3}{x^2-1}\right]$$.
+$$3\left\{\frac{3}{x^2-1}\right\}$$
+
+```
 
 
 
