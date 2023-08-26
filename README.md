@@ -30,8 +30,14 @@ $$y=\sin^{-1}x$$
 
 ```
 
+![l5](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/6d360dbf-cf16-4a63-bff0-2b8168b75b44)
 
+We use the code below for the above output <br>
 
+```
+$$y= \arcsin x$$
+
+```
 
 
 
