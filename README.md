@@ -72,6 +72,16 @@ $$\sqrt{2}$$
 ```
 
 
+![l9](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/a2792ecc-6667-4198-b6af-dfa0440d0b44)
+
+When we type the code below the above output shows <br>
+
+```
+$$\sqrt[3]{2}$$
+
+```
+
+
 
 
 
