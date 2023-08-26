@@ -210,8 +210,14 @@ The property states that $a(b+c)=ab+ac$, for all $a, b, c \in \mathbb{R}$
 ```
 
 
+![l23](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/00f5c120-af53-4397-af30-f24799549533)
 
+When we type the code below the above output shows <br>
 
+```
+The equivalence class of $a$ is $[a]$.\\
+
+```
 
 
 
