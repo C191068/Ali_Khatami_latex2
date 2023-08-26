@@ -20,3 +20,28 @@ $$y= \sin \theta$$
 
 ```
 
+![l4](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/84f5b1c4-b0e8-4266-8d4f-e6f85b39f734)
+
+We use the code below for the above output <br>
+
+```
+
+$$y=\sin^{-1}x$$
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
