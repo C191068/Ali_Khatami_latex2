@@ -286,6 +286,32 @@ $$3\left|\frac{3}{x^2-1}\right|$$
 
 ```
 
+![l31](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/803baa24-60ba-4392-88a6-9bfba980a9a0)
+
+When we type the two codes below the above output shows respectively  <br>
+
+```
+$$\left.\frac{dy}{dx}\right|_{x=1}$$
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
