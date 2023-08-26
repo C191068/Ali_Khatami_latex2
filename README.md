@@ -296,6 +296,15 @@ $$\left.\frac{dy}{dx}\right|_{x=1}$$
 ```
 
 
+![l32](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/6b76797c-ae7a-4a6d-a1fd-76f6cb5bb225)
+
+When we type the two codes below the above output shows respectively  <br>
+
+```
+
+$$\frac{1}{1+\left(\frac{1}{1+x}\right)}$$
+
+```
 
 
 
