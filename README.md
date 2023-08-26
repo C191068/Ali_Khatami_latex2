@@ -82,6 +82,9 @@ $$\sqrt[3]{2}$$
 ```
 
 
+![l10](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/f007d844-605e-4396-8d05-38791a345f77)
+
+here in the above we can see the page number 1 now if we want to remove it <br>
 
 
 
