@@ -186,6 +186,16 @@ $$\frac{\sqrt{x+1}}{\sqrt{x+2}}$$
 
 ```
 
+![l21](https://github.com/C191068/Ali_Khatami_latex2/assets/89090776/780b52a3-40eb-4b87-8075-346322d1dc4f)
+
+When we type the code below the above output shows <br>
+
+```
+
+$$\frac{1}{1+\frac{1}{x}}$$
+
+```
+
 
 
 
